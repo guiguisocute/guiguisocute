@@ -2,6 +2,6 @@
 
 ### Open source community save my life.
 
-* 👋Hi there~ I'm @GuiGuisocute, a CS student with poor skills.🥲
+* 👋Hi there~ I'm @guiguisocute, a CS student with poor skills.🥲
 * 🌱I am currently interested in learning Quest3 dev.
 * 💪I hope to make a positive impact on the world through my dedication to learning.
