@@ -3,5 +3,5 @@
 ### Open source community save my life.
 
 * 👋Hi there~ I'm @guiguisocute, a CS student with poor skills.🥲
-* 🌱I am currently interested in learning 3DGS.
+* 🌱I am currently interested in learning 3DGS & Super-Resolution.
 * 💪I hope to make a positive impact on the world through my dedication to learning.
